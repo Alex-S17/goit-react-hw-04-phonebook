@@ -27,6 +27,11 @@ ContactsList.propTypes = {
   onDeleteContact: PropTypes.func.isRequired,
 };
 
+
+
+
+
+
 // export class ContactsList extends Component {
 //   render() {
 //     const { arrayOfContacts, onDeleteContact } = this.props;
